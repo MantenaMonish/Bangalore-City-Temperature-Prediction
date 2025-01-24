@@ -20,7 +20,7 @@ The dataset used is "Bangalore_1990_2022_BangaloreCity.csv".
 
 1. Clone the repository.
 2. Open the Jupyter Notebook "Bangalore_City_Temperature_Prediction.ipynb".
-3. Run the notebook to execute the code.
+3. To execute the code run the notebook.
 
 ## Results
 
