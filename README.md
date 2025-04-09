@@ -1,6 +1,6 @@
 # Bangalore City Temperature Prediction
 
-This project aims to predict the maximum temperature in Bangalore city using historical climate data from 1990 to 2022
+This project aims to predict the maximum temperature in Bangalore city using historical climate data from 1990 to 2022.
 
 ## Dataset
 
@@ -24,4 +24,4 @@ The dataset used is "Bangalore_1990_2022_BangaloreCity.csv"
 
 ## Results
 
-The project compares the performance of 7 machine learning algorithms in predicting the maximum temperature. The results are visualized using a plot of true vs predicted values for the top 10 predictions
+The project compares the performance of 7 machine learning algorithms in predicting the maximum temperature. The results are visualized using a plot of true vs predicted values for the top 10 predictions.
