@@ -1,4 +1,4 @@
-# 🌡️ Bangalore Temperature Prediction (1990–2022)
+#  Bangalore Temperature Prediction (1990–2022)
 
 A data science project that uses historical weather data from Bangalore to predict **maximum daily temperatures (`tmax`)** using multiple machine learning models.
 
