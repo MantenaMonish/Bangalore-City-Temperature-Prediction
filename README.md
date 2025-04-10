@@ -67,10 +67,7 @@ This project explores the relationship between average temperature, minimum temp
 
 ---
 
-![image alt](https://github.com/MantenaMonish/Spectacles_Detection_Deep_Learning-/blob/a4e1cf8e9670fab74bc6a9b33128ae717a6132ff/Images/glasses.png)
+## Learning Curves
 
-## 🚀 How to Run
+![image alt](https://github.com/MantenaMonish/Bangalore-City-Temperature-Prediction/blob/100808de5b4f4381b7b8818422a293313023b5c5/Image/bangalore_result.png)
 
-1. Install dependencies:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn xgboost
